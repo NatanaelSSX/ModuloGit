@@ -1,1 +1,1 @@
-isso é um conflito
+isso, é um conflito
